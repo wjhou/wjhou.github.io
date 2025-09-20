@@ -1,34 +1,33 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: houwenjun060 (at) gmail.com <br> wenjun.hou (at) connect.polyu.hk
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final-year joint Ph.D. student, advised by Prof. <a href="https://www4.comp.polyu.edu.hk/~cswjli/">Maggie, Wenjie Li</a>@<a href="https://polyunlp.github.io/">NLP Group, PolyU</a> and Prof. <a href="https://faculty.sustech.edu.cn/liuj/">Jiang Liu</a>@<a href="https://www.imed-lab.com/">iMED Shenzhen, SUSTech</a>. I received my Master's degree from <a href="https://en.cau.edu.cn/">China Agricultural University (CAU)</a> in 2020, and Bachelor's degree from <a href="https://english.gdut.edu.cn/">Guangdong University of Technology (GDUT)</a> in 2017. For more details, please see my <a href="assets/pdf/CV.pdf">[CV]</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am always open to collaborating on research in Medical AI, Multimodal Learning, and related fields. Feel free to reach out via email.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently on the job market and actively looking for industry opportunities. Currently, I am engaged as an Applied Scientist Intern at Amazon.
+
+<h1>Research</h1>
+<p>I am working on Natural Language Processing and Multimodal Learning. Especially, I focus on the following directions:</p>
+<ul>
+  <li>
+    <b>Medical AI</b>: Focusing on developing clinically accurate radiology report generation methods (<a href="https://aclanthology.org/2023.acl-long.451/">ORGan@ACL'23</a>, <a href="https://aclanthology.org/2023.findings-emnlp.140/">Recap@EMNLP'23 Findings</a>, <a href="https://aclanthology.org/2024.findings-emnlp.528/">ICon@EMNLP'24 Findings</a>, and <a href="https://arxiv.org/abs/2505.14318">Radar@ACL'25</a>).
+  </li>
+  <li><b>Large Language Models</b>: AI Agent</li>
+</ul>
