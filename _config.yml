@@ -6,15 +6,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Wenjun
 middle_name:
 last_name: HOU (Ethan)
+email: honwejun060@gmail.com
 # contact_note: >
   # You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Wenjun's Personal Website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Wenjun Hou # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -186,7 +185,15 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/cv.md
+  - _pages/news.md
+  - _pages/profiles.md
+  - _pages/projects.md
+  - _pages/teaching.md
+  - _pages/repositories.md
   - purgecss.config.js
   - README.md
   - readme_preview/

@@ -19,9 +19,11 @@ announcements:
 
 I am a final-year joint Ph.D. student, advised by Prof. <a href="https://www4.comp.polyu.edu.hk/~cswjli/">Maggie, Wenjie Li</a>@<a href="https://polyunlp.github.io/">NLP Group, PolyU</a> and Prof. <a href="https://faculty.sustech.edu.cn/liuj/">Jiang Liu</a>@<a href="https://www.imed-lab.com/">iMED Shenzhen, SUSTech</a>. I received my Master's degree from <a href="https://en.cau.edu.cn/">China Agricultural University (CAU)</a> in 2020, and Bachelor's degree from <a href="https://english.gdut.edu.cn/">Guangdong University of Technology (GDUT)</a> in 2017. For more details, please see my <a href="assets/pdf/CV.pdf">[CV]</a>.
 
-I am always open to collaborating on research in Medical AI, Multimodal Learning, and related fields. Feel free to reach out via email.
+📮📮📮 <i>I am always open to collaborating on research in Medical AI, Multimodal Learning, and related fields. Feel free to reach out via email.</i>
 
-I am currently on the job market and actively looking for industry opportunities. Currently, I am engaged as an Applied Scientist Intern at Amazon.
+❤️❤️❤️ <u>I am currently on the job market and actively looking for industry opportunities.</u>
+
+🫶🫶🫶 <b>Currently, I am engaged as an Applied Scientist Intern at Amazon.</b>
 
 <h1>Research</h1>
 <p>I am working on Natural Language Processing and Multimodal Learning. Especially, I focus on the following directions:</p>
