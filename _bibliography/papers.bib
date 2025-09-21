@@ -57,6 +57,7 @@
     selected={true},
     preview={icon.png},
     abbr={EMNLP},
+    website={https://wjhou.github.io/ICon/},
     abstract = "Previous research on radiology report generation has made significant progress in terms of increasing the clinical accuracy of generated reports. In this paper, we emphasize another crucial quality that it should possess, i.e., inter-report consistency, which refers to the capability of generating consistent reports for semantically equivalent radiographs. This quality is even of greater significance than the overall report accuracy in terms of ensuring the system{'}s credibility, as a system prone to providing conflicting results would severely erode users' trust. Regrettably, existing approaches struggle to maintain inter-report consistency, exhibiting biases towards common patterns and susceptibility to lesion variants. To address this issue, we propose ICON, which improves the inter-report consistency of radiology report generation. Aiming to enhance the system{'}s ability to capture similarities in semantically equivalent lesions, our approach first involves extracting lesions from input images and examining their characteristics. Then, we introduce a lesion-aware mixup technique to ensure that the representations of the semantically equivalent lesions align with the same attributes, achieved through a linear combination during the training phase. Extensive experiments on three publicly available chest X-ray datasets verify the effectiveness of our approach, both in terms of improving the consistency and accuracy of the generated reports."
 }
 
@@ -83,6 +84,8 @@
     selected={true},
     preview={recap.png},
     abbr={EMNLP},
+    website={https://wjhou.github.io/Recap/},
+    poster={https://underline.io/lecture/90395-recap-towards-precise-radiology-report-generation-via-dynamic-disease-progression-reasoning},
     abstract = "Automating radiology report generation can significantly alleviate radiologists' workloads. Previous research has primarily focused on realizing highly concise observations while neglecting the precise attributes that determine the severity of diseases (e.g., small pleural effusion). Since incorrect attributes will lead to imprecise radiology reports, strengthening the generation process with precise attribute modeling becomes necessary. Additionally, the temporal information contained in the historical records, which is crucial in evaluating a patient{'}s current condition (e.g., heart size is unchanged), has also been largely disregarded. To address these issues, we propose RECAP, which generates precise and accurate radiology reports via dynamic disease progression reasoning. Specifically, RECAP first predicts the observations and progressions (i.e., spatiotemporal information) given two consecutive radiographs. It then combines the historical records, spatiotemporal information, and radiographs for report generation, where a disease progression graph and dynamic progression reasoning mechanism are devised to accurately select the attributes of each observation and progression. Extensive experiments on two publicly available datasets demonstrate the effectiveness of our model."
 }
 
@@ -109,6 +112,8 @@
     selected={true},
     preview={organ.png},
     abbr={ACL},
+    website={https://wjhou.github.io/ORGan/},
+    video={https://aclanthology.org/2023.acl-long.451.mp4},
     abstract = "This paper explores the task of radiology report generation, which aims at generating free-text descriptions for a set of radiographs. One significant challenge of this task is how to correctly maintain the consistency between the images and the lengthy report. Previous research explored solving this issue through planning-based methods, which generate reports only based on high-level plans. However, these plans usually only contain the major observations from the radiographs (e.g., lung opacity), lacking much necessary information, such as the observation characteristics and preliminary clinical diagnoses. To address this problem, the system should also take the image information into account together with the textual plan and perform stronger reasoning during the generation process. In this paper, we propose an Observation-guided radiology Report Generation framework (ORGan). It first produces an observation plan and then feeds both the plan and radiographs for report generation, where an observation graph and a tree reasoning mechanism are adopted to precisely enrich the plan information by capturing the multi-formats of each observation. Experimental results demonstrate that our framework outperforms previous state-of-the-art methods regarding text quality and clinical efficacy."
 }
 
@@ -258,6 +263,7 @@
     preview={pairgcn.png},
     code={https://github.com/wjhou/PairGCN},
     abbr={COLING},
+    selected={true},
     abstract = "Emotion-cause pair extraction (ECPE), which aims at simultaneously extracting emotion-cause pairs that express emotions and their corresponding causes in a document, plays a vital role in understanding natural languages. Considering that most emotions usually have few causes mentioned in their contexts, we present a novel end-to-end Pair Graph Convolutional Network (PairGCN) to model pair-level contexts so that to capture the dependency information among local neighborhood candidate pairs. Moreover, in the graphical network, contexts are grouped into three types and each type of contexts is propagated by its own way. Experiments on a benchmark Chinese emotion-cause pair extraction corpus demonstrate the effectiveness of the proposed model."
 }
 
