@@ -21,16 +21,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-three-papers-have-been-accepted-by-acl-2025",
+          title: 'Three papers have been accepted by ACL 2025.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-emnlp-2025",
+          title: 'One paper has been accepted by EMNLP 2025.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-defended-my-phd-thesis-huge-thanks-to-my-two-supervisors-and-committee-members",
+          title: '🫡🫡🫡 Defended my PhD thesis. Huge thanks to my two supervisors and committee...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -78,6 +76,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%68%6F%75%77%65%6E%6A%75%6E%30%36%30@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
