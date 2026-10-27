@@ -31,5 +31,5 @@ I am currently a Researcher at <a href="https://sh-xlab.hku.hk/">HKU Shanghai X-
   <li>
     <b>Medical AI</b>: Focusing on developing clinically accurate radiology report generation methods (<a href="https://aclanthology.org/2023.acl-long.451/">ORGan@ACL'23</a>, <a href="https://aclanthology.org/2023.findings-emnlp.140/">Recap@EMNLP'23 Findings</a>, <a href="https://aclanthology.org/2024.findings-emnlp.528/">ICon@EMNLP'24 Findings</a>, and <a href="https://arxiv.org/abs/2505.14318">Radar@ACL'25</a>).
   </li>
-  <li><b>Agentic AI</b></li>
+  <li><b>Agentic AI</b>: GUI Grounding (<a href="https://arxiv.org/abs/2610.33645" style="font-variant: small-caps;">PreView</a>).</li>
 </ul>
