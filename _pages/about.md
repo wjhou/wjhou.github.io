@@ -9,6 +9,7 @@ profile:
   image: photo.jpg
   image_circular: false # crops the image to make it circular
 
+preprints: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
 announcements:
